@@ -1,0 +1,28 @@
+html{
+    background:linear-gradient(to right,#bc4e9c,#f80759);
+}
+.block{
+    margin-top: 30px;
+    margin-left:10%;
+    margin-right: 10%;
+    height:500px;
+    background: linear-gradient(to left,#bc4e9c,#f80759);
+    border: 2px solid white;
+}
+.nav{
+    display: flex;
+    margin-top:10px;
+    margin-left:20px;
+    align-items: center;
+}
+.nav a{
+    text-decoration: none;
+    color:white;
+    font-size:25px;
+    padding:10px;
+    border:2px;
+}
+
+.nav a:hover{
+    border:2px solid white;
+}
